@@ -1,0 +1,22 @@
+vertical = niluvuga
+horizontal = addam
+css ruleset syntax : choose suitable name for selector
+.selector {
+    property1: value1;
+    property2: value2;
+}
+===
+image selector :
+height: 200vh; the more the height the full image i can see 
+background-repeat: no-repeat; image wont be repeated twice 
+background-size: cover; image will be covered over the entire screen 
+background-position: center; used with above property center of the background image will be aligned with the center of the container.
+===
+to get container down always apply to the main container 
+display: flex;
+flex-direction: column;
+justify-content: end;
+===
+.tourwiseContainer:
+padding: 30px; gap b/w above container 
+

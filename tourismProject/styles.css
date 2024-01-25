@@ -1,0 +1,25 @@
+.image{
+    background-image: url('https://img.freepik.com/free-vector/flat-travel-background_23-2148046037.jpg?w=740&t=st=1706180862~exp=1706181462~hmac=37dcc0b6325ff922f537f9fd6a450435ed3371a7b7086a099a16246e030b8f1f');
+    height: 200vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+.tourwiseContainer{
+    background-color: white;
+    text-align: center;
+    /* padding: 30px;   */
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+.button{
+    height: 46px;
+    width: 146px;
+    background-color: orange;
+    border-radius: 25px;
+    border-width: 3px;
+    font-size: 18px;
+}
